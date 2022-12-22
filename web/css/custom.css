@@ -1,0 +1,59 @@
+/* buttons */
+.cla-btn {
+    display: inline-block;
+    padding: 10px 15px;
+    margin-bottom: 0;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    color: white;
+    margin-right: 5px;
+    text-decoration: none !important;
+}
+.btn-primary, .btn-default {
+    background-color: #1759b2;
+    background-image: none !important;
+    border:none;
+}
+.btn-green, .kv-editable-submit {
+    background-color: #1daf2c;
+    background-image: none !important;
+    border:none;
+    color: #fff;
+}
+.btn-red {
+    background-color: #d53c3e;
+    background-image: none !important;
+    border:none;
+    color:#fff !important;
+}
+.btn-gray {
+    background-color: #868a93;
+    background-image: none !important;
+    border:none;
+    color:#fff !important;
+}
+.btn-orange {
+    background-color: #eb5c24;
+    background-image: none !important;
+    border:none;
+    color:#fff !important;
+}
+.btn-yellow {
+    background-color: #F7C700;
+    background-image: none !important;
+    border:none;
+    color:#000 !important;
+}
+
+#w1 > ul > li {
+    padding: 5px 10px 5px 10px;
+    background-color: #efefef;
+}
+.pagination {
+    font-size: 130%;
+}
